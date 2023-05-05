@@ -1,0 +1,48 @@
+.box3
+{
+    background-color: #976c54;
+    color: black;
+    overflow: hidden;
+}
+
+
+
+.in3
+{
+    margin: 20px;
+    overflow: hidden;
+}
+
+.in3 .image
+{
+    height: 20vh;
+    width: 30vw;
+    background-image: url(images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    border-radius: 20px;
+}
+.in3 .image img
+{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    margin: 10px 0px;
+}
+ .in3 .head 
+ {
+        margin: 10px 0px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: larger;
+}
+.in3 .para
+{
+    margin: 30px 0px;
+}
+.box3 .foot button
+{
+    background-color:#976c54 ;
+}
