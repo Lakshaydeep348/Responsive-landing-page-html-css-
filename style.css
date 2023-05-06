@@ -1,3 +1,7 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Poppins:wght@400;700&family=Titillium+Web:ital,wght@1,200&display=swap');
+
+
 *
 {
     margin: 0;
@@ -7,6 +11,7 @@
 body
 {
     background-color: #1a1c19;
+    font-family:"inter";
 }
 .container
  {
