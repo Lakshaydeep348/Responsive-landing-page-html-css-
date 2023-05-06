@@ -61,7 +61,32 @@ body
    
 }
 
-
+.hov:hover 
+{
+    /* transform: scale(1.05); */
+    transition: ease-in-out;
+    /* transition-duration: 1s; */
+}
+#obe:hover
+{
+    background-color: #d1caca;
+    color: black;
+}
+#obe2:hover
+{
+    background-color:#d1caca;
+    color: black;
+}
+#obe3:hover
+{
+    background-color: #d1caca;
+    color: black;
+}
+#obe4:hover
+{
+    background-color: #d1caca;
+    color: black;
+}
 
 
 

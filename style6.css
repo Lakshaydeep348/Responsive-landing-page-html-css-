@@ -1,4 +1,4 @@
-@media screen  and (max-width:800px)
+@media screen  and (max-width:900px)
 {
     .content 
     {
@@ -19,10 +19,12 @@
         height: 30vh;
         width:100vw ;
     }
-    .content .box2 .image
+    .box2 .right
     {
-        width: 80vw;
+        width: 100vw;
+        height: 20vh;
     }
+   
     
 }
 
@@ -62,13 +64,21 @@
         width: 80vw;
         height: 20vh;
      }
-     .content .box2 .image
+    .box2 .right
      {
-         width: 80vw;
+         width: 76vw;
+         height: 15vh;
+     } 
+    
+     .in2
+     {
+             flex-direction: column;
      }
-     .content .box2 .image img
+     
+     .content .box2 .image 
      {
-        width: 80vw;
+        width: 60vw;
+        height: 10vh;
      }
 }
 
@@ -90,4 +100,6 @@
     transition:ease-in-out;
     transition: 2s;
 }
-}
+
+
+    

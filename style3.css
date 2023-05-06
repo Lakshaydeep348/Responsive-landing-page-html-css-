@@ -13,8 +13,8 @@
 }
 .box2 .right
 {
-   width: 70vw;
-   height: 35vh;
+   width: 100vw;
+   height: 40vh;
    /* border: 2px solid orangered; */
    margin: 20px ;
 }
@@ -52,6 +52,7 @@
 .box2 .in2 .para
 {
    color: black;
+   margin-top: 30px;
 }
 
 .box2 .foot button
